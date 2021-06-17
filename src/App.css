@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  background-color: rgb(3, 3, 43);
+  width: auto;
+  height: 960px;
+}
+
+
+
+img{
+  width: 400px;
+}
+
+.Name {
+  margin: 10px 400px;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: cornsilk;
+}
+.Address {
+  display: flex;
+  justify-content: center;
+  
+}
